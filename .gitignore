@@ -1,0 +1,13 @@
+# Ignorer les dossiers de construction de CMake
+build/
+
+# Ignorer les exécutables
+*.exe
+OutilRogueHP
+
+# Fichiers spécifiques à l'OS ou à l'IDE
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires ou logs
+*.log
